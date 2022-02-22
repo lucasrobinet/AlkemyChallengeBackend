@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlkemyChallenge", "AlkemyChallenge\AlkemyChallenge.csproj", "{A565752F-542F-4FFC-A1D7-DC295AB8B0D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlkemyChallenge.Tests", "AlkemyChallenge.Tests\AlkemyChallenge.Tests.csproj", "{E744112C-60C7-4DFA-8CD7-723E22B56E08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A565752F-542F-4FFC-A1D7-DC295AB8B0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A565752F-542F-4FFC-A1D7-DC295AB8B0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A565752F-542F-4FFC-A1D7-DC295AB8B0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A565752F-542F-4FFC-A1D7-DC295AB8B0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E744112C-60C7-4DFA-8CD7-723E22B56E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E744112C-60C7-4DFA-8CD7-723E22B56E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E744112C-60C7-4DFA-8CD7-723E22B56E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E744112C-60C7-4DFA-8CD7-723E22B56E08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FEDDE2B-E6CB-437E-A061-3C616046A855}
+	EndGlobalSection
+EndGlobal

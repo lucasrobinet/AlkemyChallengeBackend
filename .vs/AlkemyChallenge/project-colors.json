@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a565752f-542f-4ffc-a1d7-dc295ab8b0d3": {
+      "ProjectGuid": "a565752f-542f-4ffc-a1d7-dc295ab8b0d3",
+      "DisplayName": "AlkemyChallenge",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "e744112c-60c7-4dfa-8cd7-723e22b56e08": {
+      "ProjectGuid": "e744112c-60c7-4dfa-8cd7-723e22b56e08",
+      "DisplayName": "AlkemyChallenge.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
